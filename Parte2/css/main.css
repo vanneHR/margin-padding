@@ -1,8 +1,9 @@
 div {
 	width: 200px;
-	height: 240px;
-	margin-left:20px;
-	border:2px solid #eb8459;
-	padding:10px;
+	border:1px solid #eb8459;
+	padding: 0px 10px 10px 10px;
+	box-sizing: border-box;
+	display: block;
+	margin: 10px;
 
 }
