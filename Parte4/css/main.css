@@ -1,1 +1,8 @@
-/* Agrega aqui tu CSS */
+div {
+	width: 200px;
+	border:2px solid #eb8459;
+	padding: 30px 10px 10px 10px;
+	box-sizing: border-box;
+	display: block;
+	
+}
